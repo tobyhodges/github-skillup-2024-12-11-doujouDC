@@ -114,6 +114,8 @@ glaze_ingredients %>%
 | vanilla extract|      1 teaspoon|            5|
 |            milk|   2 tablespoons|           30|
 
+Making some changes in the file
+
 ::::::::::::::::::::::::::::::::::::: instructor
 
 It's worth emphasizing to your learners that there are many valid ways of accomplishing this task in R, whether using a `tidyverse` or base R approach.
